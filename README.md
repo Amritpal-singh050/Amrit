@@ -1,3 +1,4 @@
 # Amrit
 This is our first repository
-author-Amritpal singh
+<br>
+Author-Amritpal singh
